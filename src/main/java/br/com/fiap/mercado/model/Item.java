@@ -27,7 +27,7 @@ public class Item {
     }
 
     public enum Raridade {
-        RARO , SUPERARO, LENDARIO, MITICO, EXOTICO
+        RARO, SUPERARO, LENDARIO, MITICO, EXOTICO
     }
 
     public Long getId() { return id; }
